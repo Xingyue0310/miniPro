@@ -1,2 +1,5 @@
-# vuejs-nodejs-example
-Example Project to demonstrate how to use Vue.js with nodejs backend
+step1: npm install
+
+step2: node index.js
+
+step3: npm run serve
